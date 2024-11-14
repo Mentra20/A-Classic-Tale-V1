@@ -1,6 +1,6 @@
 # A-Classic-Tale-V1
 My first version of **A Classic Tale** (my first program too) from the ISN high school course  
-_(don't look too closely at the code, it's terrible)_   
+_(don't look too closely at the code, it's terrible. Fortunately I formatted it afterwards, otherwise it was even worse.)_   
 
 Work with https://processing.org/download
 
